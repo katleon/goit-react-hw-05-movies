@@ -1,0 +1,22 @@
+.reviewsList {
+  margin-block: 30px;
+}
+
+.reviewsItem {
+  margin-bottom: 30px;
+  padding: 15px;
+  background-color: rgba(255, 255, 255, 0.904);
+  opacity: 0.9;
+  color: black;
+  max-width: 500px;
+  border-radius: 4px;
+}
+
+.reviewsItem h3 {
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+}
+
+.reviewsItem p {
+  padding-top: 10px;
+}
